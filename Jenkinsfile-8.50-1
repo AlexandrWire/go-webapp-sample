@@ -1,7 +1,7 @@
 pipeline {
     agent any
     environment {
-        TZ='Moscow'
+        TZ='Mosco'
     }
     stages {
         stage('check') {
